@@ -46,8 +46,8 @@ Hard copies of this book from will be made available in the second half of 2018.
 
 [Tom Hengl](http://envirometrix.net/staff) is a Senior Researchers / technical director at Envirometrix Ltd. 
 He has more than 20 years of experience as an environmental modeller, data scientist and spatial analyst. 
-Tom is a passionate advocate for, and supporter of, open data, reproducable science and career development 
-for young scientists. He has desiged and implemented the global [SoilGrids](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169748) dataset, 
+Tom is a passionate advocate for, and supporter of, open data, reproducible science and career development 
+for young scientists. He has designed and implemented the global [SoilGrids](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169748) dataset, 
 partially in response to other well known open data projects such as OpenStreetMap, GBIF, GlobalForestWatch 
 and global climate mapping projects. He has been teaching predictive soil mapping at Wageningen University / 
 ISRIC within the “Hands-on-GSIF” block courses. Video tutorials of the soil mapping with R can also be 
